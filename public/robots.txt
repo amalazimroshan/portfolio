@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://5421626f.portfolio-4cp.pages.dev/sitemap.xml
