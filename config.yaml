@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://amalroshan.netlify.app/projects/"
 languageCode: en-us
 title: Portfolio
 theme: ["PaperMod"]
